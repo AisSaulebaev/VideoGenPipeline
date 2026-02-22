@@ -1,0 +1,397 @@
+{
+  "meta": {
+    "title": "Устроившись сиделкой к умирающему миллионеру, я услышала его разговор с нотариусом, но правда оказалась страшнее…",
+    "youtube_titles": [
+      "Миллионер притворялся умирающим, чтобы проверить детей, но я узнала, что одна из них…",
+      "Устроившись сиделкой к богачу, я случайно услышала его разговор с нотариусом, но когда увидела его дочь…",
+      "Он обманывал детей, притворяясь умирающим, но я поняла — настоящая трагедия совсем в другом…"
+    ],
+    "hook_surface": "Устроившись сиделкой к умирающему миллионеру, Лариса случайно услышала его разговор с нотариусом…",
+    "plot_twist_summary": "The heroine discovers the millionaire is faking his death to test his children, but realizes his test is unjust because one daughter is hiding her own terminal illness to protect him — Larisa must choose between loyalty to her employer and moral truth.",
+    "seed": "Larisa Volkova, former ICU nurse turned caregiver, is hired by wealthy Gennady Sorokin who claims terminal cancer. She overhears him discussing 'the performance' with his lawyer — he's faking his death to test which children care. During a staged crisis, Larisa notices daughter Irina is clearly undergoing chemotherapy herself while hiding it from her father.",
+    "total_chapters": 5,
+    "genre_tags": [
+      "genre_02",
+      "genre_09",
+      "genre_13",
+      "genre_08",
+      "genre_20",
+      "genre_19"
+    ],
+    "hook_type": "hook_type_02",
+    "timeline": "3 weeks",
+    "price_of_victory": "Larisa loses her job and Gennady's trust when she exposes his test as cruel, forcing him to face the truth about Irina. She sacrifices financial security and the only employer who respected her medical skills, returning to uncertainty but with her integrity intact.",
+    "resolution_method": "Larisa confronts Gennady with the truth about Irina's illness, forcing him to choose between his pride and his daughter's life — her moral courage breaks through his emotional armor and makes him see the cruelty of his test.",
+    "transformation_contrast": "Ch1: Larisa stays silent when she disagrees with doctors, swallows her opinions to keep the job, avoids confrontation. Ch4: Larisa directly confronts Gennady about the immorality of his test, refuses to continue the deception even when he threatens to fire her, stands her ground.",
+    "villain_plan_logic": "Gennady's goal is to identify which child genuinely loves him versus his wealth before distributing inheritance. His fear is dying alone, unloved, having wasted his life building an empire for ungrateful heirs. His timeline is urgent because he's 68 and wants to reconcile with the 'worthy' child before real illness strikes. He doesn't know Irina is already dying.",
+    "flaw": "conflict_avoidant",
+    "flaw_consequence": "Larisa's inability to confront authority causes her to enable Gennady's cruel test for too long, allowing Irina to suffer in silence through multiple family confrontations before Larisa finally speaks up.",
+    "story_id": "story_20260220_191214_seed003"
+  },
+  "characters": {
+    "heroine": {
+      "role": "heroine",
+      "name": "Лариса Волкова",
+      "name_variants": [
+        "Лариса",
+        "Лариса Михайловна",
+        "Ларочка"
+      ],
+      "patronymic": "Михайловна",
+      "age": 36,
+      "archetypes": [
+        "archetype_06",
+        "archetype_02"
+      ],
+      "appearance": "Tired gray eyes that still notice everything, dark blonde hair always in a practical bun, hands that move with medical precision, slight stoop from years of bending over hospital beds, wears her grandmother's silver cross under her uniform.",
+      "personality": "Apologizes reflexively even when she's right. Keeps detailed medical journals as a coping mechanism for anxiety. Cannot confront authority figures directly — instead withdraws or finds indirect ways to solve problems. Brilliant diagnostician who left ICU because she couldn't handle telling families bad news. Sees caregiving as penance for the patients she couldn't save.",
+      "backstory": "Grew up in Tver with her grandmother after her mother died in childbirth. Became an ICU nurse at 22, was considered one of the best diagnosticians in her hospital. Left medicine at 34 after a brutal 72-hour shift where three patients died and she had a breakdown in the supply closet. Has been doing private caregiving for two years, taking only terminal cases because she feels she failed the living.",
+      "occupation": "Private caregiver (former ICU nurse)",
+      "locked_facts": [
+        "Left ICU nursing exactly 2 years ago after a breakdown",
+        "Grandmother raised her in Tver, died when Larisa was 28",
+        "Wears her grandmother's silver cross daily",
+        "Has medical journals dating back 14 years",
+        "Lives in a rented studio apartment in Khimki"
+      ],
+      "knows": [
+        "Advanced medical diagnostics and ICU protocols",
+        "Gennady hired her through an agency three weeks ago",
+        "He claims to have stage 4 pancreatic cancer",
+        "His three children rarely visit"
+      ],
+      "doesnt_know": [
+        "Gennady is faking his illness entirely",
+        "Irina has stage 3 lymphoma",
+        "Gennady's real goal is testing his children's love",
+        "The 'doctors' who diagnosed him are actors"
+      ],
+      "flaw": "conflict_avoidant",
+      "flaw_consequence": "Enables Gennady's deception for two weeks despite moral discomfort, allowing Irina to endure cruel emotional tests while hiding her own terminal diagnosis."
+    },
+    "love_interest": {
+      "role": "love_interest",
+      "name": "Игорь Белов",
+      "name_variants": [
+        "Игорь",
+        "Игорь Андреевич"
+      ],
+      "patronymic": "Андреевич",
+      "age": 42,
+      "archetypes": [
+        "archetype_07"
+      ],
+      "appearance": "Prematurely gray hair, deep lines around his eyes, surgeon's hands that shake slightly when he's not working, always wears a faded leather jacket over scrubs, has a scar on his left forearm from a scalpel accident.",
+      "personality": "Obsessively dedicated to his patients to the point of self-destruction. Works 18-hour shifts at a free clinic in Khimki to atone for a past mistake. Emotionally distant with everyone except the dying — only feels alive when he's saving someone. Drinks too much coffee, forgets to eat, has dark humor that makes people uncomfortable. Brilliant surgeon who destroyed his own career.",
+      "backstory": "Was a rising star in cardiac surgery at a prestigious Moscow hospital until age 38, when he operated while exhausted and made a fatal error that killed a 19-year-old patient. Quit before he could be fired, spent six months in depression, now works at an underfunded clinic treating uninsured patients. Refuses to do surgery anymore, only diagnostics and palliative care.",
+      "occupation": "Doctor at free clinic in Khimki",
+      "locked_facts": [
+        "Killed a patient four years ago during surgery",
+        "Works at the Khimki Free Clinic on Leninsky Prospekt",
+        "Refuses to perform surgery since the incident",
+        "Drives a 15-year-old Lada"
+      ],
+      "knows": [
+        "Larisa is a former ICU nurse working as a caregiver",
+        "She left nursing after burnout",
+        "She's caring for a wealthy terminal patient"
+      ],
+      "doesnt_know": [
+        "Gennady is faking his illness",
+        "Larisa is complicit in the deception",
+        "Irina is his patient at the free clinic",
+        "Larisa is struggling with the moral weight of the lie"
+      ],
+      "flaw": "uses_patients_as_penance",
+      "love_interest_flaw": "Igor is so consumed by guilt over his past mistake that he uses patients as emotional penance, working himself to exhaustion and refusing to build a life outside the clinic — when Larisa needs him to step back from a case to help her, he refuses, prioritizing a stranger's crisis over their relationship."
+    },
+    "villain": {
+      "role": "villain",
+      "name": "Геннадий Павлович Сорокин",
+      "name_variants": [
+        "Геннадий Павлович",
+        "Сорокин",
+        "Гена"
+      ],
+      "patronymic": "Павлович",
+      "age": 68,
+      "archetypes": [],
+      "appearance": "Tall, broad-shouldered, still imposing despite his age, thick white hair, sharp blue eyes that miss nothing, expensive but understated clothing, moves with the confidence of a man used to being obeyed.",
+      "personality": "Self-made factory owner who built an empire from nothing and believes love must be earned, not given. Deeply lonely but too proud to admit it. Views relationships as transactions and tests — if his children loved him, they'd prove it through actions, not words. Genuinely believes his test is fair and necessary. Capable of warmth but only toward those he deems 'worthy.' Paternalistic and controlling, even when he means well.",
+      "backstory": "Grew up in Soviet-era poverty, built a successful metalworks factory in the 1990s through ruthless business practices. Married twice, both marriages ended in divorce because he prioritized work over family. Has three adult children from his first marriage who resent his absence during their childhood. Hasn't seen them regularly in five years except for obligatory holidays. Fears dying alone and unmourned.",
+      "occupation": "Retired factory owner",
+      "locked_facts": [
+        "Owns a gated cottage in Odintsovo District, 40km from Moscow",
+        "Built Sorokin Metalworks in 1993",
+        "Divorced twice, first wife died in 2015",
+        "Has not been seriously ill — the cancer is entirely fabricated"
+      ],
+      "knows": [
+        "His children rarely visit and seem interested only in inheritance",
+        "Larisa is a skilled former nurse",
+        "He is not actually dying",
+        "The test has been planned for three months with his lawyer"
+      ],
+      "doesnt_know": [
+        "Irina has lymphoma and is undergoing chemotherapy",
+        "Larisa has discovered the deception",
+        "His test is causing Irina to hide her illness and suffer alone",
+        "His other children suspect something is wrong"
+      ],
+      "villain_justification": "Gennady believes he is protecting his legacy and ensuring his wealth goes to a child who truly loves him, not opportunists. He sees the test as a final act of parental responsibility — teaching his children the value of genuine care. He thinks he is being wise and fair, not cruel."
+    },
+    "angel": {
+      "role": "angel",
+      "name": "Вера Ильинична Громова",
+      "name_variants": [
+        "Вера Ильинична",
+        "Вера",
+        "бабушка Вера"
+      ],
+      "patronymic": "Ильинична",
+      "age": 71,
+      "archetypes": [
+        "archetype_02",
+        "archetype_04"
+      ],
+      "appearance": "Small, round, with kind brown eyes behind thick glasses, silver hair in a neat braid, always wears a handknit cardigan, moves slowly due to arthritis, has a warm smile that makes strangers trust her.",
+      "personality": "Retired nurse who volunteers at the Khimki clinic's palliative care unit. Has seen enough death to know what matters and what doesn't. Speaks plainly, with no patience for lies or self-pity, but infinite patience for genuine suffering. Believes in moral clarity — right is right, wrong is wrong, and silence in the face of cruelty is complicity. Bakes pirozhki for patients and staff.",
+      "backstory": "Worked as a hospice nurse for 40 years, lost her husband to cancer 10 years ago, has no children. Volunteers at the clinic because she can't stand being idle. Has seen hundreds of families torn apart by deathbed conflicts and has strong opinions about honesty and dignity in dying.",
+      "occupation": "Retired nurse, volunteer at Khimki Free Clinic",
+      "locked_facts": [
+        "Volunteers at Khimki Free Clinic three days a week",
+        "Husband died of lung cancer in 2014",
+        "Lives in a small apartment near the clinic"
+      ],
+      "knows": [
+        "Larisa is a former ICU nurse now working privately",
+        "Irina is undergoing chemotherapy at the clinic",
+        "Many families lie to each other about illness"
+      ],
+      "doesnt_know": [
+        "Gennady is Irina's father",
+        "Gennady is faking his own terminal illness",
+        "Larisa is complicit in the deception"
+      ]
+    },
+    "supporting": {
+      "role": "supporting",
+      "name": "Ирина Геннадьевна Сорокина",
+      "name_variants": [
+        "Ирина",
+        "Ирина Геннадьевна",
+        "Ира"
+      ],
+      "patronymic": "Геннадьевна",
+      "age": 38,
+      "archetypes": [
+        "archetype_03"
+      ],
+      "appearance": "Thin to the point of frailty, wearing a wig that doesn't quite match her natural hair color, pale skin, dark circles under her eyes, dresses carefully to hide weight loss, moves with deliberate slowness to conserve energy.",
+      "personality": "Quiet, self-sacrificing, has always been the peacemaker in the family. Loves her father despite his flaws but has learned not to expect emotional support from him. Hiding her illness because she doesn't want to be a burden or to 'win' his love through pity. Works as a translator from home, lives alone, has few close friends. Deeply private about her suffering.",
+      "backstory": "Middle child, always overlooked between her ambitious older brother and charming younger sister. Studied languages, became a freelance translator. Diagnosed with stage 3 lymphoma four months ago, undergoing chemotherapy at the free clinic because she doesn't want her father to know and doesn't want to use his money. Visits him out of duty, not expecting warmth.",
+      "occupation": "Freelance translator",
+      "locked_facts": [
+        "Diagnosed with lymphoma four months ago",
+        "Receiving treatment at Khimki Free Clinic",
+        "Lives in a rented apartment in Moscow, Tagansky District",
+        "Has not told her family about her illness"
+      ],
+      "knows": [
+        "Her father claims to have terminal cancer",
+        "Her siblings are already discussing inheritance",
+        "She is very ill herself"
+      ],
+      "doesnt_know": [
+        "Her father is faking his illness",
+        "Larisa knows the truth about the deception",
+        "Her father is testing his children's love"
+      ]
+    }
+  },
+  "open_loops": [
+    {
+      "id": "loop_main",
+      "type": "main",
+      "question": "Will Larisa expose Gennady's cruel test before Irina's hidden illness destroys her?",
+      "opened_in_chapter": 1,
+      "closed_in_chapter": 4,
+      "status": "pending"
+    },
+    {
+      "id": "loop_romance",
+      "type": "secondary",
+      "question": "Can Larisa and Igor build trust when both are haunted by medical failures?",
+      "opened_in_chapter": 2,
+      "closed_in_chapter": 5,
+      "status": "pending"
+    },
+    {
+      "id": "loop_irina",
+      "type": "secondary",
+      "question": "Will Irina reveal her illness before it's too late, or die trying to prove her love?",
+      "opened_in_chapter": 2,
+      "closed_in_chapter": 4,
+      "status": "pending"
+    },
+    {
+      "id": "loop_moral",
+      "type": "micro",
+      "question": "Will Larisa choose loyalty to her employer or moral truth?",
+      "opened_in_chapter": 1,
+      "closed_in_chapter": 4,
+      "status": "pending"
+    },
+    {
+      "id": "loop_gennady",
+      "type": "micro",
+      "question": "Will Gennady realize his test is destroying the child who truly loves him?",
+      "opened_in_chapter": 3,
+      "closed_in_chapter": 4,
+      "status": "pending"
+    }
+  ],
+  "plot_devices_planned": [
+    "plot_device_01",
+    "plot_device_07",
+    "plot_device_17",
+    "plot_device_20",
+    "plot_device_21",
+    "plot_device_24"
+  ],
+  "emotional_buttons_planned": [
+    "button_02",
+    "button_04",
+    "button_08",
+    "button_12",
+    "button_14",
+    "button_16",
+    "button_18"
+  ],
+  "power_phrases_budget": {
+    "target_total": 10,
+    "used": 0
+  },
+  "chapters": [
+    {
+      "ch": 1,
+      "beat": "Golden Past + Catastrophe",
+      "beat_pct": "0-20%",
+      "plan": "Opens with a childhood memory of Larisa's grandmother teaching her to recognize death in a patient's eyes. Cuts to present: Larisa arrives at Gennady's luxurious cottage for her first day as his caregiver. While bringing him tea, she overhears his phone conversation with the lawyer about 'the performance' and realizes he's faking his terminal illness. Conflicted and desperate for the job, she says nothing. Ends with Gennady asking her to help him 'prepare for the end' — and she agrees, knowing it's a lie.",
+      "must_happen": [
+        "[GOLDEN_PAST] Larisa, age 9, sits with her grandmother in a Tver hospital room. Grandmother, a hospice nurse, teaches her to hold a dying woman's hand and shows her the specific way a person's eyes change in the final hours. The smell of antiseptic and lilacs from the windowsill. Grandmother says some people are born to ease suffering. Scene cuts abruptly to present-day Larisa in a cramped Khimki apartment, staring at an eviction notice.",
+        "[CATASTROPHE] Larisa overhears Gennady on the phone in his study, discussing 'how convincing the doctors were' and 'the performance timeline' with his lawyer. She realizes he is faking terminal cancer. Her hands shake as she sets down the tea tray. She needs this job desperately but knows participating makes her complicit in a lie.",
+        "[HEROINE ACTS] Gennady asks Larisa to help him stage symptoms convincingly for his children's visit next week. She hesitates, then agrees, rationalizing that it's not her place to judge her employer. She avoids confronting him directly, choosing financial security over moral clarity. First compromise of her integrity."
+      ],
+      "must_NOT_happen": [
+        "Larisa must NOT confront Gennady about the deception in this chapter",
+        "Igor must NOT appear yet",
+        "Irina's illness must NOT be revealed yet"
+      ],
+      "emotional_arc": "nostalgia → shock → moral conflict → resignation → dread",
+      "primary_emotion": "moral_conflict",
+      "target_words": 1200,
+      "status": "pending",
+      "summary": null,
+      "actual_words": null
+    },
+    {
+      "ch": 2,
+      "beat": "Descent + Angel Appears",
+      "beat_pct": "20-48%",
+      "plan": "Larisa helps Gennady stage a 'medical crisis' for his children's visit. She meets his three children: the dismissive older son, the materialistic younger daughter, and Irina — who is clearly ill herself, wearing a wig and moving with exhaustion. Larisa notices Irina's symptoms but says nothing. After the visit, Larisa breaks down in her apartment. She meets Igor at the Khimki clinic where she goes for her own stress-related insomnia. He recognizes her burnout and offers unexpected understanding. Vera, a volunteer nurse, gently confronts Larisa about what's troubling her.",
+      "must_happen": [
+        "[SETBACK] During the staged family visit, Larisa notices Irina has lost dramatic weight, is wearing a wig, and shows signs of chemotherapy. Larisa realizes Irina is genuinely dying while pretending to be fine for her father's sake. Larisa wants to speak up but freezes, unable to confront Gennady or break her role. The visit ends with Irina leaving exhausted and Larisa feeling complicit in cruelty.",
+        "[ROMANCE:AWARENESS] Larisa visits the Khimki Free Clinic for insomnia medication. Igor, working a late shift, recognizes her burnout immediately and asks pointed questions about her current job. She deflects but he sees through her. He shares briefly that he left surgery after harming a patient. First moment of mutual recognition between two people haunted by medical failure.",
+        "[ANGEL] Vera, volunteering at the clinic, brings Larisa tea and sits with her in the waiting area. She speaks plainly about the weight of caring for the dying and the danger of lying to oneself about complicity. She doesn't know Larisa's specific situation but her words cut deep. Larisa leaves shaken, realizing she cannot continue the deception much longer."
+      ],
+      "must_NOT_happen": [
+        "Larisa must NOT learn Irina is Gennady's daughter yet (she knows Irina visited, but not about the clinic connection)",
+        "Romance must NOT progress beyond awareness",
+        "Larisa must NOT confront Gennady yet"
+      ],
+      "emotional_arc": "anxiety → horror → numbness → shame → fragile hope",
+      "primary_emotion": "shame",
+      "target_words": 1300,
+      "status": "pending",
+      "summary": null,
+      "actual_words": null
+    },
+    {
+      "ch": 3,
+      "beat": "Transformation Begins",
+      "beat_pct": "48-70%",
+      "plan": "Larisa begins investigating Irina quietly, learning she's a patient at Igor's clinic. She and Igor grow closer as he helps her process her moral conflict without knowing the full situation. Larisa starts keeping detailed notes on Gennady's test, documenting the cruelty. Gennady, pleased with the first test's results, plans an even harsher second test. Larisa tries to subtly advocate for Irina but Gennady dismisses her. Igor's workaholic tendencies cause their first real conflict when he cancels plans to handle a patient crisis. Larisa realizes she's falling for someone as broken as she is.",
+      "must_happen": [
+        "[EVIDENCE SETUP] Larisa begins documenting Gennady's test in her medical journal, recording dates, staged symptoms, and his stated intentions. She photographs his calendar showing planned 'crisis' dates. She doesn't yet know what she'll do with this evidence but feels compelled to create a record. Her investigative instinct from ICU nursing reawakens.",
+        "[ROMANCE:ATTRACTION] Igor invites Larisa to his apartment after a shift. She sees his spartan life: medical textbooks, empty fridge, a wall of patient thank-you cards. He admits he left surgery because he killed someone through exhaustion and arrogance. She sees his vulnerability and shares her own breakdown story. First genuine emotional intimacy. They almost kiss but he pulls back, saying he's not good at anything except failing people.",
+        "[VILLAIN_HUMAN] Gennady sits with Larisa late at night, drinking expensive cognac, and talks about his childhood poverty and his fear of dying alone like his own father did — unmourned in a state hospice. He genuinely believes his test will reveal which child truly loves him. Larisa sees his loneliness and almost sympathizes, but then he dismisses Irina's quiet devotion as 'obligation, not love' and plans a harsher test. Larisa's sympathy curdles."
+      ],
+      "must_NOT_happen": [
+        "Larisa must NOT confront Gennady yet",
+        "Irina must NOT reveal her illness to her father yet",
+        "Romance must NOT reach intimacy yet"
+      ],
+      "emotional_arc": "determination → tenderness → anger → resolve",
+      "primary_emotion": "determination",
+      "target_words": 1300,
+      "status": "pending",
+      "summary": null,
+      "actual_words": null
+    },
+    {
+      "ch": 4,
+      "beat": "Revelation + Climax",
+      "beat_pct": "70-88%",
+      "plan": "Gennady stages a final 'deathbed' scene to see which child will stay with him overnight. Irina stays, exhausted and ill, while her siblings leave. Larisa watches Irina collapse from chemotherapy side effects in the hallway and realizes she cannot stay silent. She confronts Gennady with the truth about Irina's illness and the cruelty of his test. Gennady, shocked and defensive, accuses Larisa of betrayal. Larisa refuses to back down, showing him her documentation and forcing him to see what his test has cost. Gennady fires her. Igor, learning the full truth, is furious that Larisa enabled the deception for so long. Larisa loses both her job and Igor's trust.",
+      "must_happen": [
+        "[SETBACK] Irina collapses in the cottage hallway from chemotherapy-induced dehydration during the overnight vigil. Larisa, trained as an ICU nurse, stabilizes her but Irina begs her not to tell Gennady the truth, saying she doesn't want his pity or to win his love through illness. Larisa realizes Irina has been suffering silently through multiple tests, and her own silence enabled this. Larisa's complicity becomes unbearable.",
+        "[HEROINE ACTS] Larisa confronts Gennady in his study, presenting her documented evidence of his test and revealing Irina's lymphoma. She tells him his test is not wisdom but cruelty, that Irina has been dying while proving her love, and that he is so obsessed with being loved 'correctly' that he cannot see genuine devotion. Gennady, shocked and furious, accuses her of overstepping and betraying his trust. He fires her immediately.",
+        "[ROMANCE:CONFLICT] Igor learns the full truth about Larisa's complicity in Gennady's deception. He is furious that she enabled a cruel test for weeks while knowing Irina was his patient at the clinic. He accuses her of choosing money over morality, just like the hospital administrators who protected him after his fatal mistake. Larisa, hurt and angry, tells him he uses guilt as an excuse to avoid living. They part bitterly."
+      ],
+      "must_NOT_happen": [
+        "Gennady must NOT immediately reconcile or apologize",
+        "Irina must NOT confront her father yet (that happens off-page between chapters)",
+        "Romance must NOT resolve in this chapter"
+      ],
+      "emotional_arc": "dread → courage → confrontation → loss → devastation",
+      "primary_emotion": "courage",
+      "target_words": 1300,
+      "status": "pending",
+      "summary": null,
+      "actual_words": null
+    },
+    {
+      "ch": 5,
+      "beat": "Harvest",
+      "beat_pct": "88-100%",
+      "plan": "Two months later. Larisa is working at the Khimki Free Clinic as a volunteer nurse, having returned to medicine on her own terms. Gennady, humbled, has reconciled with Irina and is paying for her treatment at a private hospital; she is in remission. He visits Larisa at the clinic to apologize and offer her a job managing a charitable foundation, but she declines, having found peace in her work. Igor and Larisa reconcile slowly, both learning to forgive themselves and each other. The story ends with Larisa teaching a young caregiver how to hold a dying patient's hand, echoing her grandmother's lesson, but now with hard-won wisdom about the cost of silence.",
+      "must_happen": [
+        "[FLASHFORWARD] Two months later, one specific morning at the Khimki Free Clinic. Larisa is training a young caregiver in the palliative ward, showing her how to recognize when a patient is in their final hours. Vera watches approvingly. Larisa moves with quiet confidence, no longer apologizing for her expertise. She has returned to nursing but on her own terms, working with the dying because she chooses to, not as penance.",
+        "[RESOLUTION] Gennady visits the clinic to apologize. He explains Irina is in remission and they have reconciled; he is funding her treatment and has restructured his will to support all three children equally, abandoning his test. He offers Larisa a well-paid position managing a charitable foundation for terminal patients. She thanks him but declines, saying she has found her place. He leaves, humbled. Larisa has chosen integrity over money.",
+        "[ROMANCE:INTIMACY] Igor and Larisa meet for coffee after her shift. The anger has faded into understanding. He admits he was wrong to judge her so harshly and that her courage to confront Gennady showed him what real accountability looks like. She admits she was wrong to enable the deception. They agree to try again, slowly, both still broken but learning to trust. A tentative, earned intimacy. No grand declarations, just quiet hope."
+      ],
+      "must_NOT_happen": [
+        "No checklist of every character's fate",
+        "No dramatic reconciliation speeches",
+        "No 'perfect happiness' — the ending must remain bittersweet"
+      ],
+      "emotional_arc": "peace → bittersweet closure → quiet joy → earned hope",
+      "primary_emotion": "bittersweet_peace",
+      "target_words": 1500,
+      "status": "pending",
+      "summary": null,
+      "actual_words": null
+    }
+  ],
+  "pipeline_context": {
+    "cumulative_summary": "",
+    "previous_chapter_tail": "",
+    "power_phrases_used": {},
+    "character_names_used": {},
+    "formality_by_chapter": {},
+    "scenes_written": {},
+    "gesture_counts": {},
+    "romance_stage": "none"
+  }
+}

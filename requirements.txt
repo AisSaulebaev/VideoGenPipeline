@@ -1,0 +1,16 @@
+fastapi
+uvicorn
+sqlalchemy
+jinja2
+python-multipart
+requests
+openai
+google-api-python-client
+google-auth-oauthlib
+google-auth
+google-generativeai
+undetected-chromedriver
+selenium
+setuptools
+Pillow
+

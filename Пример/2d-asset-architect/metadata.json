@@ -1,0 +1,5 @@
+{
+  "name": "2D Asset Architect",
+  "description": "A specialized AI tool for generating 2D game assets, tiles, and sprites using Gemini.",
+  "requestFramePermissions": []
+}

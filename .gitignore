@@ -1,0 +1,57 @@
+# Виртуальное окружение
+venv/
+env/
+ENV/
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+
+# База данных
+*.db
+*.db-shm
+*.db-wal
+
+# Логи
+*.log
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Временные файлы
+*.tmp
+*.temp
+
+# Исключить папки
+profiles/
+output/
+temp_audio/
+temp_chunks/
+temp_downloads/
+assets/
+uploaded_videos/
+thumbnails/
+tokens/
+
+# Секреты
+client_secret.json
+config.py
+accounts.json
+*.pickle
+tokens/
+
+# Секреты
+client_secret.json
+config.py
+accounts.json
+*.pickle
